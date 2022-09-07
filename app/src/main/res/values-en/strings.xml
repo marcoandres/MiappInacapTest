@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiappInacap</string>
+    <string name="hello_marco">Hola</string>
+    <string name="name_hint_user">User Name</string>
+    <string name="hint_pass_user">Pass</string>
+    <string name="name_user">User</string>
+    <string name="pass_user">Clave</string>
+    <string name="login_boton">button</string>
+</resources>

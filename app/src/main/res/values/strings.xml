@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiappInacap</string>
+
+    <string name="name_user">Usuario</string>
+    <string name="name_hint_user">Nombre Usuario</string>
+    <string name="hint_pass_user">Clave</string>
+    <string name="pass_user">Clave</string>
+    <string name="login_boton">boton</string>
+    <string name="boton_login">Log In</string>
+
+</resources>
